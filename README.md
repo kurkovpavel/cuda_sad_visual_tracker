@@ -35,5 +35,6 @@ Initializing tracker with template size: 30
 Tracking started!
 ```
 
-# Press left mouse button the object and track it...
+# Press left mouse button the object.
+https://github.com/kurkovpavel/cuda_sad_visual_tracker/blob/main/1.png
 
