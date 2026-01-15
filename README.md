@@ -1,18 +1,18 @@
 # cuda_sad_visual_tracker
 GPU Visual Tracker
 
-Compiling:
+# Compiling:
 
-mkdir build /n
-cd build /n
-# Choose CUDA arch for your GPU (6.1 here) /n
-cmake -DCUDA_ARCHITECTURES=61 .. /n
-make -j$(nproc) /n
-cd bin /n
+`mkdir build
+cd build
+# Choose CUDA arch for your GPU (6.1 here)
+cmake -DCUDA_ARCHITECTURES=61 ..
+make -j$(nproc)
+cd bin`
 
 
 # Run:
-./FastTrackerCUDA
+`./FastTrackerCUDA
 === FastTracker CUDA ===
 Initializing camera...
 CUDA Device: NVIDIA GeForce GTX 1060 6GB
@@ -30,6 +30,7 @@ Controls:
   ESC: Exit
 Initializing tracker with template size: 30
 Tracking started!
+`
 
 # Press left mouse button the object and track it...
 
