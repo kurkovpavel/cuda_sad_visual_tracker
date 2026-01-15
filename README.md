@@ -1,5 +1,6 @@
 # cuda_sad_visual_tracker
 GPU Visual Tracker
+<img width="963" height="541" alt="1" src="https://github.com/user-attachments/assets/1caa2ca1-625c-4906-b37e-5c63d2e78107" />
 
 # Compiling:
 
@@ -36,5 +37,5 @@ Tracking started!
 ```
 
 # Press left mouse button the object.
-https://github.com/kurkovpavel/cuda_sad_visual_tracker/blob/main/1.png
+
 
