@@ -36,6 +36,6 @@ Initializing tracker with template size: 30
 Tracking started!
 ```
 
-# Press left mouse button the object.
+# Press left mouse button to start tracking.
 
 
