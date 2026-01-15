@@ -3,12 +3,12 @@ GPU Visual Tracker
 
 Compiling:
 
-mkdir build
-cd build
-# Choose CUDA arch for your GPU (6.1 here)
-cmake -DCUDA_ARCHITECTURES=61 ..
-make -j$(nproc)
-cd bin
+mkdir build /n
+cd build /n
+# Choose CUDA arch for your GPU (6.1 here) /n
+cmake -DCUDA_ARCHITECTURES=61 .. /n
+make -j$(nproc) /n
+cd bin /n
 
 
 # Run:
